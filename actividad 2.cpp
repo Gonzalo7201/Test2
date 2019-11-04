@@ -6,7 +6,6 @@ main()
 	printf ("Este programa lee 3 numeros diferentes.");
 	printf ("Dame el primer valor.");
 	scanf ("%d",e_num);
-	
 	scanf ("%d",e_num2);
 	printf ("Dame el tercer valor");
 	scanf ("%d",e_num3);
